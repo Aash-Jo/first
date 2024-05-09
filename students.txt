@@ -1,0 +1,6 @@
+Aadi 20 80 90
+Aashvi 20 78 94
+Waffle 19 90 99
+dad 20 99 99
+mumma 30 85 75
+dumdum 99 99 99

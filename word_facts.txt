@@ -1,0 +1,10 @@
+Total words = 12
+words starting with vowels = 1
+words starting with non vowels = 11
+words with length 3 = 3
+words with length 4 = 2
+words with length 5 = 3
+words with length 6 = 1
+words with length 7 = 1
+words with length 8 = 1
+words with length 10 = 1
