@@ -1,0 +1,10 @@
+baseball:1.50
+bat:2.00
+bike:20.00
+cap:4:00
+swetband:9.00
+shoes:10.00
+shorts:5.20
+sunscreen:5.50
+T-shrits:8.00
+pants:8.50

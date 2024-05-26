@@ -50,7 +50,7 @@ def sub_time(CTime, LMin):
     #borrow an hour
     vHour = vHour-1
     vMin = vMin+60
-    
+
   #vSMT = vLmin
   vFHour = int(vHour)
   vFMin = int(vMin) - int(vLmin)
@@ -59,7 +59,7 @@ def sub_time(CTime, LMin):
   if vFHour<1: 
     vHour_adjust = vFHour%12
     vFHour= vFHour - vHour_adjust
-    
+
   vFTime.append(vFHour)
   vFTime.append(vFMin)
   return vFTime
@@ -72,7 +72,7 @@ while vOption == "start" or vOption=="again":
   vAmin = int(input("now enter how many minutes to do for your op:"))
   print("vUtime=", vUtime, " vOp=", vOp, " vAmin=", vAmin)
 
-  
+
   if vOp == "add":
     vAdd_Time = add_time_div(vUtime, vAmin)
     print("the old time was", vUtime, ",and the New time is", vAdd_Time[0],
